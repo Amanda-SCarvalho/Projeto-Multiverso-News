@@ -8,7 +8,7 @@ O projeto simula um portal de notícias inspirado no universo geek, reunindo con
 
 Você pode acessar o site publicado aqui:
 
-➡️ https://amanda-scarvalho.github.io/portal-multiverso/
+➡️ [Link do site](https://amanda-scarvalho.github.io/Projeto-Multiverso-News/)
 
 ## 🚀 Objetivo do Projeto
 
